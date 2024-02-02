@@ -62,7 +62,7 @@
 
 
      #sitar-play:hover #head {
-  animation: movehead 1s infinite;
+  animation: movehead 2s infinite;
   transform-origin: center;
   
 }
