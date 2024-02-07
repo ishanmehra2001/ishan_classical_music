@@ -5,54 +5,57 @@
     justify-content: center;
 }
 
-#flute{
+.flute{
 position: absolute;
-top: 637px;
-left: 660px;
+top: 585px;
+left: 650px;
 }
 
-#sitar{
+.sitar{
 position: absolute;
-top: 592px;
-left: 420px;
+top: 490px;
+right: 500px;
 }
 
-#tabla{
+.tabla{
+    
+    position: absolute;
+    top: 555px;
+    left: 450px;
+}
+
+.harmonium{
     
 
     position: absolute;
-    top: 603px;
-    right: -61px;
+    top: 525px;
+    right: 260px;
 }
 
-#harmonium{
-    
-
+.veena{
     position: absolute;
-    top: 605px;
-    right: -290px;
-}
-
-#veena{
-    position: absolute;
-    top: 643px;
-    left: 132px;
+    top: 590px;
+    left: 130px;
 
 }
 
-#veena object{
+.veena object{
+width: 330px;
+}
+
+
+.flute object{
+    width: 260px;
+}
+
+ .tabla object  {
+    width: 190px;
+}
+
+.sitar object {
+    width: 210px;
+}
+
+.harmonium object{
 width: 250px;
-}
-
-
-#flute object{
-    width: 200px;
-}
-
- #tabla object, #sitar object {
-    width: 150px;
-}
-
-#harmonium object{
-width: 180px;
 }
