@@ -1,0 +1,58 @@
+#background img{
+    width: 1500px;
+    height: auto;
+    align-self: center;
+    justify-content: center;
+}
+
+#flute{
+position: absolute;
+top: 637px;
+left: 660px;
+}
+
+#sitar{
+position: absolute;
+top: 592px;
+left: 420px;
+}
+
+#tabla{
+    
+
+    position: absolute;
+    top: 603px;
+    right: -61px;
+}
+
+#harmonium{
+    
+
+    position: absolute;
+    top: 605px;
+    right: -290px;
+}
+
+#veena{
+    position: absolute;
+    top: 643px;
+    left: 132px;
+
+}
+
+#veena object{
+width: 250px;
+}
+
+
+#flute object{
+    width: 200px;
+}
+
+ #tabla object, #sitar object {
+    width: 150px;
+}
+
+#harmonium object{
+width: 180px;
+}
